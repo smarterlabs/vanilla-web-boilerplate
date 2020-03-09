@@ -1,6 +1,6 @@
 # Vanilla Web Boilerplate
 
-A very bare bones and unopinionated web boilerplate.
+A very bare bones and unopinionated HTML/CSS/JS boilerplate.
 
 ## Requirements
 
