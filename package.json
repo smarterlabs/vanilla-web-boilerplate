@@ -1,0 +1,12 @@
+{
+  "name": "@smarterlabs/vanilla-web-boilerplate",
+  "author": "https://smarterlabs.com",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "browser-sync start --server \"src\" --files=\"src\""
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
