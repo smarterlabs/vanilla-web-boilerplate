@@ -8,11 +8,11 @@ A very bare bones and unopinionated HTML/CSS/JS boilerplate.
 
 ## Setup
 
-`npm install` or `yarn`
+`npm install`
 
 ## Usage
 
-`npm run dev` or `yarn dev`
+`npm run dev`
 
 A live dev server will open up in your local browser. Edit the files in the `src` directory.
 
